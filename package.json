@@ -1,0 +1,10 @@
+{
+  "name": "cypress-testdrive",
+  "version": "1.0.0",
+  "description": "Cypress test drive",
+  "main": "index.js",
+  "repository": "https://github.com/jojoriveraa/cautious-cypress-test.git",
+  "author": "jojoriveraa",
+  "license": "MIT",
+  "private": false
+}
